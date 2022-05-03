@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+## Overview
 
-You can use the [editor on GitHub](https://github.com/SamanthaPhillips300/About/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Samantha Phillips and I am a student at the University of Tulsa. I am passionate about cybersecurity and teaching others. The purpose of this site is to showcase my projects, personal research, and anything else I can think to add. I hope you find something that interests you while visiting my page :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+### Ph.D | University of Tulsa | May 2026
+**Area of Study:** Cyber Studies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### B.S.B.A | University of Tulsa | May 2022
+**Major:** Computer Information Systems
 
-```markdown
-Syntax highlighted code block
+**Minor:** Cybersecurity
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### IT Governance, Risk, and Compliance Intern | AAON | March 2022 - Present
+- Implemented Role-specific Cybersecurity Training using the KnowBe4 platform
+- Wrote and Reviewed IT related policies, standards, and processes
+- Used OneTrust to implement an IT Risk Management tool and Enterprise Policy Management tool
 
-1. Numbered
-2. List
+### Information Technology Co-op | PCC-Walden's Machine | March 2021 - March 2022
+- Performed regular computer maintenance using remote administration tools
+- Upgraded & installed computer hardware and software
+- Automated common tasks to improve efficiency using Powershell
+- Managed users and computers in Active Directory
 
-**Bold** and _Italic_ and `Code` text
+## Organizations & Involvement
 
-[Link](url) and ![Image](src)
-```
+### Collegiate Cyber Defense Competition
+**Compeition Seasons:** 2021 & 2022
+- My main role on the CCDC team is to respond to business injects and assit my teamates with technical support. The business injects range from writing cybersecurity policies to creating presentations. For the 2022 seasonm, I was the lead inject manager and provided inject response training to new team members.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Collegiate Penetration Testing Competition
+**Competition Seasons:** 2021
+- My primary roles on the CPTC team are to respond to business injects, complete open-source intelligence research for the competition and help my teammates with technical tasks. The business injects for CPTC range from writing a plan to pentest specific systems to explaining how to respond to a ransomware attack.
 
-### Jekyll Themes
+### Women in Cybersecurity (WiCyS)
+**Vice President/Treasurer:** _August 2021 - Present_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SamanthaPhillips300/About/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Member:** _August 2020 - August 2021_
 
-### Support or Contact
+### Women in Business (WIB)
+**Secretary:** _May 2020 - May 2022_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Member:** _August 2019 - May 2020_
+
+### Information Technologies United (iTU)
+**Executive Officer:** _May 2021 - May 2022_
+
+**Member:** _August 2020 - May 2021_
+
+## Accomplishments
+
+- Graduation with Summa Cum Laude Honors - _**University of Tulsa** May 2022_
+- Collins College of Business Outstanding Senior in CIS - _**University of Tulsa** May 2022_
+- President's Honor Roll - _**University of Tulsa**_
+- Competed in the Collegiate Penetration Testing Competiton International Finals 2021
+- Placed 2nd in Collegiate Penetration Testing Competition Reginals in 2021
+- Placed 2nd in Southwest Collegiate Cyber Defense Competition Regionals 2021 & 2022
+
+## Technical Skills
+
+- Web Development with HTML5, CSS3, Javascript, and PHP
+- PowerShell Scripting
+- Active Directory administation
+- Database Administration with SQL
+
+### [Connect with me on LinkedIn](https://www.linkedin.com/in/samantha-leigh-phillips/)
