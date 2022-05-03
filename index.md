@@ -1,3 +1,6 @@
+#### [Projects](https://samanthaphillips300.github.io/Projects/) | [Research](https://samanthaphillips300.github.io/Research/) | [Connect with Me](https://samanthaphillips300.github.io/Connect/)
+
+
 ## Overview
 
 My name is Samantha Phillips and I am a student at the University of Tulsa. I am passionate about cybersecurity and teaching others. The purpose of this site is to showcase my projects, personal research, and anything else I can think to add. I hope you find something that interests you while visiting my page :)
